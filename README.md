@@ -14,6 +14,6 @@ Hello, I'm Sylvia! 👋 I'm trying to break into data analytics so this is a rep
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases and provide links to my github repositories containing code and colab notebooks I created while doing the projects.
 
 ### Analysing Customers Table with SQL
-#### Description: Analysing Customers Table
-#### Skills: SQL
-#### Technology: MYSQL workbench
+##### Description: Analysing Customers Table
+##### Skills: SQL
+##### Technology: MYSQL workbench
