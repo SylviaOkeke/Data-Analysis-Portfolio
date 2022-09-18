@@ -23,3 +23,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills**: Data cleaning, data analysis, data visualization  <br> 
 **Technology**: Colab Notebook, Python; Pandas, NumPy, Plotly, Matplotlib <br> 
 **Results**: Visualizing the impact of the national lockdown in Nigeria 
+
+## Certificates
+* [Complete SQL Mastery](https://drive.google.com/file/d/1-NYqj1X6SVgYlCUj3M8zCvO0En5mFtqF/view) (Coding with Mosh)
