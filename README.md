@@ -28,4 +28,4 @@ In this section I will list data analytics projects briefly describing the techn
 * [Complete SQL Mastery](https://drive.google.com/file/d/1-NYqj1X6SVgYlCUj3M8zCvO0En5mFtqF/view) (Coding with Mosh)
 * [Google Data Analytics Professional Certificate](
 https://www.coursera.org/account/accomplishments/specialization/certificate/5DS8EMVMJEZW) (Coursera)
-*[Applied Data Science Lab](https://www.credly.com/badges/94ccd39a-95ab-4eb3-931a-672e6564067a/public_url) (WorldQuant University)
+* [Applied Data Science Lab](https://www.credly.com/badges/94ccd39a-95ab-4eb3-931a-672e6564067a/public_url) (WorldQuant University)
